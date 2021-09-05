@@ -9,9 +9,9 @@ The link to the website can be found here: [mujtabazahidi.com](https://mujtabaza
 ## Technologies Used
 The tech stack for this portfolio website is currently:
  - HTML5
- - CSS3
+ - CSS3 with SASS
  - Bootstrap 5.1
- - JavaScript
+ - JavaScript (ECMA6)
  - React (Create-React-App)
 
 Currently there are no backend services needed for this website and as such it is hosted on [Netlify](https://www.netlify.com/).
