@@ -90,9 +90,6 @@ class CardPY extends React.Component {
 }
 
 export default class PortFolioCards extends React.Component {
-    constructor() {
-        super();
-    }
         render() {
         
         return (
