@@ -4,8 +4,7 @@ export default class IntroMessage extends React.Component {
     constructor() {
         super();
         this.callOut = "Hi there!";
-        this.mainMessage = "You've stumbled onto my portfolio website somehow. Thank you for visiting. You can click on the two links \
-        to go to my GitHub or LinkedIn. Or if you prefer, you can check out my projects down below.";
+        this.mainMessage = "You've stumbled onto my portfolio website somehow. Thank you for visiting. You can click on the two links to go to my GitHub or LinkedIn. Or if you prefer, you can check out my projects down below.";
         this.github = "GitHub";
         this.linkedIn = "LinkedIn";
         this.linkedInURL = "https://github.com/mushi333";
