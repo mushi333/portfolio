@@ -9,7 +9,7 @@ export default class Header extends React.Component {
         return (   
             <nav className="navbar navbar-dark bg-dark">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">{this.name}</a>
+                    <a className="navbar-brand" href="">{this.name}</a>
                 </div>
             </nav>
         );
